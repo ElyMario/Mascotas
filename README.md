@@ -10,11 +10,8 @@ CardView,
 ActionView (ToolBar),
 FloatingActionButton
 
+[![Screenshot-20220127-140035-Mascotas.jpg](https://i.postimg.cc/nhVJy1s2/Screenshot-20220127-140035-Mascotas.jpg)](https://postimg.cc/crz2YwBt)
 
-[url=https://postimg.cc/crz2YwBt][img]https://i.postimg.cc/crz2YwBt/Screenshot-20220127-140035-Mascotas.jpg[/img][/url]
+[![Screenshot-20220127-140039-Mascotas.jpg](https://i.postimg.cc/dVWYwTrY/Screenshot-20220127-140039-Mascotas.jpg)](https://postimg.cc/QFWPqCf4)
 
-[url=https://postimg.cc/QFWPqCf4][img]https://i.postimg.cc/QFWPqCf4/Screenshot-20220127-140039-Mascotas.jpg[/img][/url]
-
-[url=https://postimg.cc/HJDNvmKp][img]https://i.postimg.cc/HJDNvmKp/Screenshot-20220127-140055-Mascotas.jpg[/img][/url]
-
-
+[![Screenshot-20220127-140055-Mascotas.jpg](https://i.postimg.cc/0NbqQ20J/Screenshot-20220127-140055-Mascotas.jpg)](https://postimg.cc/HJDNvmKp)
