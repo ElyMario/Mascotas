@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <include android:id="@+id/action_bar"
+        layout="@layout/action_bar"
+        >
+    </include>
+<!--
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimaryVariant"
+        android:elevation="4dp"
+        app:title="Petagram"
+        android:textAlignment="center"
+        app:navigationIcon="@drawable/icons8_dog_paw_30"
+        />-->
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_pets"
+        android:layout_marginTop="56dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btnUnidades"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="15dp"
+            android:clickable="true"
+            app:maxImageSize="30dp"
+            app:rippleColor="@color/divider"
+            app:borderWidth="4dp"
+            app:elevation="16dp"
+            app:srcCompat="@drawable/icons8_slr_camera_48" />
+
+
+</RelativeLayout>
