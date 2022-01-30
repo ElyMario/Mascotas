@@ -9,7 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="divider">#BDBDBD</color>
 
-    <color name="color_background">#cfd8dc</color>
+ <!--   <color name="color_background">#cfd8dc</color> -->
+    <color name="color_background">#ffffff</color>
     <color name="color_surface">#eeeeee</color>
     <color name="color_error">#d32f2f</color>
 

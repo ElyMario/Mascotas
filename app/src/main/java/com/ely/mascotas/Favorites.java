@@ -13,6 +13,7 @@ import android.view.MenuItem;
 import android.view.View;
 
 import com.ely.mascotas.Adapters.favoritesAdapter;
+import com.ely.mascotas.Adapters.petsProfileAdapter;
 
 import java.util.ArrayList;
 
@@ -48,10 +49,10 @@ public class Favorites extends AppCompatActivity {
     public void pet_list() {
         pets = new ArrayList<PetObject>();
 
-        pets.add(new PetObject("Bylly", "2", (R.drawable.dog11)));
-        pets.add(new PetObject("Troy", "5", (R.drawable.dog12)));
-        pets.add(new PetObject("Rose", "3", (R.drawable.dog13)));
-        pets.add(new PetObject("Miky", "4", (R.drawable.dog14)));
+        pets.add(new PetObject("Bylly", "2", (R.drawable.dog13)));
+        pets.add(new PetObject("Troy", "5", (R.drawable.dog14)));
+        pets.add(new PetObject("Rose", "3", (R.drawable.dog11)));
+        pets.add(new PetObject("Miky", "4", (R.drawable.dog12)));
         pets.add(new PetObject("froy", "3", (R.drawable.dog15)));
     }
 

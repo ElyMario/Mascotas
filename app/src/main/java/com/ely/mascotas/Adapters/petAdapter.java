@@ -23,12 +23,13 @@ import java.util.ArrayList;
 public class petAdapter extends RecyclerView.Adapter<petAdapter.PetAdapterViewHolder> {
 
 
+    ArrayList<PetObject> PetList;
+    Context CurrentContext;
 
     public petAdapter(ArrayList<PetObject> PetList){
         this.PetList = PetList;
     }
-    ArrayList<PetObject> PetList;
-    Context CurrentContext;
+
 
 
     @NonNull

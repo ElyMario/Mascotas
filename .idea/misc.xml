@@ -4,9 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/xD/AndroidStudioProjects/Mascotas/app/src/main/res/layout/action_bar.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/xD/AndroidStudioProjects/Mascotas/app/src/main/res/layout/activity_about.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xD/AndroidStudioProjects/Mascotas/app/src/main/res/layout/activity_contact.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/xD/AndroidStudioProjects/Mascotas/app/src/main/res/layout/activity_favorites.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/xD/AndroidStudioProjects/Mascotas/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/xD/AndroidStudioProjects/Mascotas/app/src/main/res/layout/fragment_perfil.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xD/AndroidStudioProjects/Mascotas/app/src/main/res/layout/fragment_recycler.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/xD/AndroidStudioProjects/Mascotas/app/src/main/res/layout/pet_card.xml" value="0.33" />
+        <entry key="..\:/Users/xD/AndroidStudioProjects/Mascotas/app/src/main/res/layout/pet_card_profile.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/xD/AndroidStudioProjects/Mascotas/app/src/main/res/layout/pet_favorites_card.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/xD/AndroidStudioProjects/Mascotas/app/src/main/res/menu/menu.xml" value="0.20520833333333333" />
       </map>
     </option>

@@ -8,5 +8,17 @@
         android:title="Favoritos"
         app:showAsAction="ifRoom">
     </item>
+    <item
+        android:id="@+id/Contacto"
+        android:title="@string/contacto"
+        android:orderInCategory="100"
+        >
+    </item>
+    <item
+        android:id="@+id/About"
+        android:title="@string/acerca_de"
+        android:orderInCategory="101"
+        >
+    </item>
 
 </menu>
